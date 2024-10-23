@@ -1,0 +1,5 @@
+version: 2
+
+tests:
+  - name: assert_total_order_amount_is_positif
+    description: "This test tests if the sum of the total_order_item_amount by order_id is positive."
